@@ -1,11 +1,10 @@
-import AllMovies from "../AllMovies/AllMovies";
+import AllFilteredMovies from "../AllMovies/AllFilteredMovies";
 import Banner from "../Banner/Banner";
-
 const Home = () => {
     return (
         <div>
             <Banner></Banner>
-            <AllMovies></AllMovies>
+            <AllFilteredMovies></AllFilteredMovies>
         </div>
     );
 };

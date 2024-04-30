@@ -1,8 +1,10 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* website name: Movies,
 
-Currently, two official plugins are available:
+* Live server link: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*In the Home Page You Can see a beautiful navigation bar, where you can see the website name. After  the navigation bar you can see a gorgious scrolling banner where i use React Marque. 
+
+* in home page,You will get all Movies and you have a search bar, where you can find your best movies by searching in order to movie genre,country or language.
+
+* Technologies: React js, Tailwind Css, React Marquee, Framer motion.
